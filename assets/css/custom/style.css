@@ -1,0 +1,111 @@
+@font-face {
+    font-family: CircularStd-Black;
+    src: url(/assets/fonts/CircularStd-Black.otf);
+}
+
+@font-face {
+    font-family: CircularStd-BlackItalic;
+    src: url(/assets/fonts/CircularStd-BlackItalic.otf);
+}
+
+@font-face {
+    font-family: CircularStd-Bold;
+    src: url(/assets/fonts/CircularStd-Bold.otf);
+}
+
+@font-face {
+    font-family: CircularStd-BoldItalic;
+    src: url(/assets/fonts/CircularStd-BoldItalic.otf);
+}
+
+@font-face {
+    font-family: CircularStd-Book;
+    src: url(/assets/fonts/CircularStd-Book.otf);
+}
+
+@font-face {
+    font-family: CircularStd-BookItalic;
+    src: url(/assets/fonts/CircularStd-BookItalic.otf);
+}
+
+@font-face {
+    font-family: CircularStd-Medium;
+    src: url(/assets/fonts/CircularStd-Medium.otf);
+}
+
+@font-face {
+    font-family: CircularStd-MediumItalic;
+    src: url(/assets/fonts/CircularStd-MediumItalic.otf);
+}
+
+:root {
+    --font: 'CircularStd-Black';
+}
+
+.text-color-light {
+    color: #FFFFFF !important;
+}
+
+.text-color-dark {
+    color: #0E0249 !important;
+    font-weight: 700;
+}
+
+.text-color-light-blue {
+    color: #07BBC8 !important;
+}
+
+.bg-color-light-blue {
+    background-color: #07BBC8 !important;
+}
+
+.bg-color-yellow {
+    background-color: #F2C833 !important;
+}
+
+.bg-img {
+    background-image: url('../../img/hero-content/Path\ 1.svg');
+    background-position: center;
+    background-size: auto;
+    height: 110vh;
+}
+
+.hero-topic {
+    font-size: 48px;
+}
+
+.hero-header {
+    font-size: 69px;
+    font-weight: bold;
+}
+
+.hero-sub-header {
+    font-size: 34px;
+}
+
+.request-demo-btn {
+    width: 325px;
+    height: 68px;
+    background-color: #07BBC8;
+    font-size: 28px;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.icon-ar {
+    background-image: url('../../img/Icon\ feather-arrow-right-circle.png');
+    width: 30px;
+    height: 30px;
+}
+
+.box-shadow {
+    box-shadow: 1px 1px 17px 8px rgba(0,0,0,0.22);
+-webkit-box-shadow: 1px 1px 17px 8px rgba(0,0,0,0.22);
+-moz-box-shadow: 1px 1px 17px 8px rgba(0,0,0,0.22);
+}
+
+.width-280 {
+    width: 280px;
+    height: 280px;
+}
