@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="700.803" height="707.456" viewBox="0 0 700.803 707.456">
+  <defs>
+    <filter id="Path_2356" x="30" y="0" width="380.053" height="126" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feFlood flood-color="#0e0249" flood-opacity="0.129"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2359" x="146.973" y="116" width="380.053" height="126" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur-2"/>
+      <feFlood flood-color="#0e0249" flood-opacity="0.129"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2360" x="0" y="232.583" width="380.053" height="126" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur-3"/>
+      <feFlood flood-color="#0e0249" flood-opacity="0.129"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2361" x="243.973" y="348.874" width="380.053" height="126" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur-4"/>
+      <feFlood flood-color="#0e0249" flood-opacity="0.129"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2362" x="0" y="465.165" width="494.039" height="126" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur-5"/>
+      <feFlood flood-color="#0e0249" flood-opacity="0.129"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2363" x="271" y="581.456" width="429.803" height="126" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur-6"/>
+      <feFlood flood-color="#0e0249" flood-opacity="0.129"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_154" data-name="Group 154" transform="translate(-170.625 -4303)">
+    <g id="Group_118" data-name="Group 118" transform="translate(221.625 4324)">
+      <g transform="matrix(1, 0, 0, 1, -51, -21)" filter="url(#Path_2356)">
+        <path id="Path_2356-2" data-name="Path 2356" d="M4.287,0h329.48c2.368,0,4.287,3.134,4.287,7V77c0,3.866-1.919,7-4.287,7H4.287C1.919,84,0,80.866,0,77V7C0,3.134,1.919,0,4.287,0Z" transform="translate(51 21)" fill="#fff"/>
+      </g>
+      <g id="tick-mark_1_" data-name="tick-mark (1)" transform="translate(14 14.396)">
+        <path id="Path_2357" data-name="Path 2357" d="M44.855,55.207h-34.5A10.351,10.351,0,0,1,0,44.855v-34.5A10.351,10.351,0,0,1,10.351,0h34.5A10.351,10.351,0,0,1,55.207,10.351v34.5A10.351,10.351,0,0,1,44.855,55.207Z" fill="#d1f2f5"/>
+        <path id="Path_2358" data-name="Path 2358" d="M21.8,8A13.8,13.8,0,1,0,35.6,21.8,13.818,13.818,0,0,0,21.8,8Zm7,10.877-7.475,7.475a1.15,1.15,0,0,1-1.625,0l-3.739-3.739a1.15,1.15,0,0,1,1.627-1.627l2.924,2.924,6.663-6.663A1.15,1.15,0,1,1,28.8,18.877Z" transform="translate(5.802 5.802)" fill="#07bbc8"/>
+      </g>
+      <text id="Flat_Fee_Pricing" data-name="Flat Fee Pricing" transform="translate(97 49)" fill="#0e0249" font-size="24" font-family="CircularStd-Bold, Circular Std Bold" font-weight="700" letter-spacing="0.008em"><tspan x="0" y="0">Flat Fee Pricing</tspan></text>
+    </g>
+    <g id="Group_119" data-name="Group 119" transform="translate(338.598 4440)">
+      <g transform="matrix(1, 0, 0, 1, -167.97, -137)" filter="url(#Path_2359)">
+        <path id="Path_2359-2" data-name="Path 2359" d="M4.287,0h329.48c2.368,0,4.287,3.134,4.287,7V77c0,3.866-1.919,7-4.287,7H4.287C1.919,84,0,80.866,0,77V7C0,3.134,1.919,0,4.287,0Z" transform="translate(167.97 137)" fill="#fff"/>
+      </g>
+      <g id="tick-mark_1_2" data-name="tick-mark (1)" transform="translate(14 14.396)">
+        <path id="Path_2357-2" data-name="Path 2357" d="M44.855,55.207h-34.5A10.351,10.351,0,0,1,0,44.855v-34.5A10.351,10.351,0,0,1,10.351,0h34.5A10.351,10.351,0,0,1,55.207,10.351v34.5A10.351,10.351,0,0,1,44.855,55.207Z" fill="#fff9dd"/>
+        <path id="Path_2358-2" data-name="Path 2358" d="M21.8,8A13.8,13.8,0,1,0,35.6,21.8,13.818,13.818,0,0,0,21.8,8Zm7,10.877-7.475,7.475a1.15,1.15,0,0,1-1.625,0l-3.739-3.739a1.15,1.15,0,0,1,1.627-1.627l2.924,2.924,6.663-6.663A1.15,1.15,0,1,1,28.8,18.877Z" transform="translate(5.802 5.802)" fill="#ffd200"/>
+      </g>
+      <text id="Tiered_Pricing" data-name="Tiered Pricing" transform="translate(97 49)" fill="#0e0249" font-size="24" font-family="CircularStd-Bold, Circular Std Bold" font-weight="700" letter-spacing="0.008em"><tspan x="0" y="0">Tiered Pricing</tspan></text>
+    </g>
+    <g id="Group_120" data-name="Group 120" transform="translate(191.625 4556.583)">
+      <g transform="matrix(1, 0, 0, 1, -21, -253.58)" filter="url(#Path_2360)">
+        <path id="Path_2360-2" data-name="Path 2360" d="M4.287,0h329.48c2.368,0,4.287,3.134,4.287,7V77c0,3.866-1.919,7-4.287,7H4.287C1.919,84,0,80.866,0,77V7C0,3.134,1.919,0,4.287,0Z" transform="translate(21 253.58)" fill="#fff"/>
+      </g>
+      <g id="tick-mark_1_3" data-name="tick-mark (1)" transform="translate(14 14.396)">
+        <path id="Path_2357-3" data-name="Path 2357" d="M44.855,55.207h-34.5A10.351,10.351,0,0,1,0,44.855v-34.5A10.351,10.351,0,0,1,10.351,0h34.5A10.351,10.351,0,0,1,55.207,10.351v34.5A10.351,10.351,0,0,1,44.855,55.207Z" fill="#e3d0f8"/>
+        <path id="Path_2358-3" data-name="Path 2358" d="M21.8,8A13.8,13.8,0,1,0,35.6,21.8,13.818,13.818,0,0,0,21.8,8Zm7,10.877-7.475,7.475a1.15,1.15,0,0,1-1.625,0l-3.739-3.739a1.15,1.15,0,0,1,1.627-1.627l2.924,2.924,6.663-6.663A1.15,1.15,0,1,1,28.8,18.877Z" transform="translate(5.802 5.802)" fill="#9b53ec"/>
+      </g>
+      <text id="Volume_Pricing" data-name="Volume Pricing" transform="translate(97 49)" fill="#0e0249" font-size="24" font-family="CircularStd-Bold, Circular Std Bold" font-weight="700" letter-spacing="0.008em"><tspan x="0" y="0">Volume Pricing</tspan></text>
+    </g>
+    <g id="Group_121" data-name="Group 121" transform="translate(435.598 4672.874)">
+      <g transform="matrix(1, 0, 0, 1, -264.97, -369.87)" filter="url(#Path_2361)">
+        <path id="Path_2361-2" data-name="Path 2361" d="M4.287,0h329.48c2.368,0,4.287,3.134,4.287,7V77c0,3.866-1.919,7-4.287,7H4.287C1.919,84,0,80.866,0,77V7C0,3.134,1.919,0,4.287,0Z" transform="translate(264.97 369.87)" fill="#fff"/>
+      </g>
+      <g id="tick-mark_1_4" data-name="tick-mark (1)" transform="translate(14 14.396)">
+        <path id="Path_2357-4" data-name="Path 2357" d="M44.855,55.207h-34.5A10.351,10.351,0,0,1,0,44.855v-34.5A10.351,10.351,0,0,1,10.351,0h34.5A10.351,10.351,0,0,1,55.207,10.351v34.5A10.351,10.351,0,0,1,44.855,55.207Z" fill="#ffbaba"/>
+        <path id="Path_2358-4" data-name="Path 2358" d="M21.8,8A13.8,13.8,0,1,0,35.6,21.8,13.818,13.818,0,0,0,21.8,8Zm7,10.877-7.475,7.475a1.15,1.15,0,0,1-1.625,0l-3.739-3.739a1.15,1.15,0,0,1,1.627-1.627l2.924,2.924,6.663-6.663A1.15,1.15,0,1,1,28.8,18.877Z" transform="translate(5.802 5.802)" fill="#d03e13"/>
+      </g>
+      <text id="Bundles_Pricing" data-name="Bundles Pricing" transform="translate(97 49)" fill="#0e0249" font-size="24" font-family="CircularStd-Bold, Circular Std Bold" font-weight="700" letter-spacing="0.008em"><tspan x="0" y="0">Bundles Pricing</tspan></text>
+    </g>
+    <g id="Group_122" data-name="Group 122" transform="translate(191.625 4789.165)">
+      <g transform="matrix(1, 0, 0, 1, -21, -486.16)" filter="url(#Path_2362)">
+        <path id="Path_2362-2" data-name="Path 2362" d="M5.732,0H446.307c3.166,0,5.732,3.134,5.732,7V77c0,3.866-2.566,7-5.732,7H5.732C2.566,84,0,80.866,0,77V7C0,3.134,2.566,0,5.732,0Z" transform="translate(21 486.16)" fill="#fff"/>
+      </g>
+      <g id="tick-mark_1_5" data-name="tick-mark (1)" transform="translate(14 14.396)">
+        <path id="Path_2357-5" data-name="Path 2357" d="M44.855,55.207h-34.5A10.351,10.351,0,0,1,0,44.855v-34.5A10.351,10.351,0,0,1,10.351,0h34.5A10.351,10.351,0,0,1,55.207,10.351v34.5A10.351,10.351,0,0,1,44.855,55.207Z" fill="#bcfcbe"/>
+        <path id="Path_2358-5" data-name="Path 2358" d="M21.8,8A13.8,13.8,0,1,0,35.6,21.8,13.818,13.818,0,0,0,21.8,8Zm7,10.877-7.475,7.475a1.15,1.15,0,0,1-1.625,0l-3.739-3.739a1.15,1.15,0,0,1,1.627-1.627l2.924,2.924,6.663-6.663A1.15,1.15,0,1,1,28.8,18.877Z" transform="translate(5.802 5.802)" fill="#039c08"/>
+      </g>
+      <text id="Configurable_Feature_Pricing" data-name="Configurable Feature Pricing" transform="translate(97 49)" fill="#0e0249" font-size="24" font-family="CircularStd-Bold, Circular Std Bold" font-weight="700" letter-spacing="0.008em"><tspan x="0" y="0">Configurable Feature Pricing</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 170.63, 4303)" filter="url(#Path_2363)">
+      <path id="Path_2363-2" data-name="Path 2363" d="M4.918,0H382.885C385.6,0,387.8,3.134,387.8,7V77c0,3.866-2.2,7-4.918,7H4.918C2.2,84,0,80.866,0,77V7C0,3.134,2.2,0,4.918,0Z" transform="translate(292 602.46)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
     font-family: CircularStd-Black;
     src: url(/assets/fonts/CircularStd-Black.otf);
 }
@@ -36,10 +36,49 @@
 @font-face {
     font-family: CircularStd-MediumItalic;
     src: url(/assets/fonts/CircularStd-MediumItalic.otf);
-}
+} */
 
 :root {
-    --font: 'CircularStd-Black';
+    --color-blue-l: #8EF3FB;
+    --color-blue-d: #9BCFF6;
+    --color-orange-l: #FCC9BA;
+    --color-orange-mx: #FBB2C6;
+    --color-green-l: #BBFECD;
+    --color-pink-l: #F5B7FC;
+    --color-yellow-l: #F9ECBF;
+    --color-grey-l: #D2D2D2;
+}
+
+.c-blue-l {
+    background-color: var(--color-blue-l);
+}
+
+.c-blue-d {
+    background-color: var(--color-blue-d);
+}
+
+.c-orange-l {
+    background-color: var(--color-orange-l);
+}
+
+.c-orange-mx {
+    background-color: var(--color-orange-mx);
+}
+
+.c-green-l {
+    background-color: var(--color-green-l);
+}
+
+.c-pink-l {
+    background-color: var(--color-pink-l);
+}
+
+.c-yellow-l {
+    background-color: var(--color-yellow-l);
+}
+
+.c-grey-l {
+    background-color: var(--color-grey-l);
 }
 
 .text-color-light {
@@ -63,15 +102,24 @@
     background-color: #F2C833 !important;
 }
 
+.f-24 {
+    font-size: 24px;
+}
+
+.f-40 {
+    font-size: 40px;
+}
+
 .bg-img {
     background-image: url('../../img/hero-content/Path\ 1.svg');
     background-position: center;
     background-size: auto;
-    height: 110vh;
+    min-height: 110vh;
 }
 
 .hero-topic {
     font-size: 48px;
+    /* font-family: CircularStd-Black; */
 }
 
 .hero-header {
@@ -108,4 +156,54 @@
 .width-280 {
     width: 280px;
     height: 280px;
+}
+
+.why-vb {
+    font-size: 30px;
+}
+
+.sub-topic {
+    font-size: 40px;
+}
+
+.m-half-of-top {
+    margin-top: -240px;
+}
+
+.list ul {
+    list-style-image: url('../../img/Group\ 42.svg');
+}
+
+.list-4 ul {
+    list-style-image: url('../../img/Group\ 42.svg');
+    font-size: 24px;
+}
+
+
+.list ul li {
+    color: #0E0249;
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+
+.bg-1 {
+    background-image: url('../../img/bg-blue.svg');
+    background-position: center;
+    background-size: cover;
+    /* min-height: 100vh; */
+}
+
+.list-2 ul li{
+    width: 352px;
+    height: 52px;
+    overflow: hidden;
+    font-size: 24px;
+}
+
+.list-3 ul li{
+    width: 352px;
+    height: 52px;
+    overflow: hidden;
+    font-size: 24px;
 }
